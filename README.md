@@ -1,2 +1,2 @@
 # tailwind-landing
-Landing page powered by Tailwind
+Landing page styling powered by Tailwind CSS
